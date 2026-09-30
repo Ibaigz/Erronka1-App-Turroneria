@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">R1_TurroneriaIvanez</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_tienda">Tienda</string>
+    <string name="turroneria_ibanez">Turronería Ivañez</string>
+    <string name="turrones_ibanez">Turrones Ivañez</string>
+    <string name="en_bilbao_desde">En Bilbao desde 1855</string>
+    <string name="home_texto_turrones">En la actualidad regentamos la TURRONERÍA IVÁÑEZ,\u0020</string>
+    <string name="home_seccionbold"> tienda de turrones artesanos en Bilbao</string>
+    <string name="home_texto_turrones2">, situada en el barrio de Casco Viejo. Seguimos la tradición turronera de la familia desde 1855 y somos los encargados de transmitir este legado a la quinta generación de la familia.</string>
+    <string name="titulo_perfil">Tu cuenta</string>
+    <string name="titulo_iniciar_sesion">INICIAR SESIÓN</string>
+    <string name="titulo_registrarse">REGISTRARSE</string>
+    <string name="instruccion_iniciar_sesion">Por favor, indica tu email y contraseña</string>
+    <string name="instruccion_registrarse">Por favor, completa los siguientes datos</string>
+    <string name="placeholder_email">EMAIL</string>
+    <string name="placeholder_contrasena">CONTRASEÑA</string>
+    <string name="placeholder_nombre">NOMBRE</string>
+    <string name="placeholder_apellido">APELLIDO</string>
+    <string name="boton_iniciar_sesion">INICIAR SESIÓN</string>
+    <string name="boton_registrarse">REGISTRARSE</string>
+    <string name="texto_crear_cuenta">¿No tienes una cuenta? Crear una cuenta</string>
+    <string name="texto_iniciar_sesion">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="boton_cerrar_sesion">Cerrar sesión</string>
+    <string name="bienvenido_usuario">Bienvenido, %1$s!</string>
+    <string name="registro_exitoso">Registro exitoso. Bienvenido!</string>
+    <string name="titulo_direccion">Dirección</string>
+    <string name="placeholder_telefono">Telefono</string>
+    <string name="placeholder_direccion">Direccion: Calle, Portal, Piso…</string>
+    <string name="placeholder_ciudad">Ciudad</string>
+    <string name="placeholder_codigo_postal">Código Postal</string>
+    <string name="boton_añadir_direccion">Añadir Dirección</string>
+    <string name="boton_guardar_direccion">Guardar Dirección</string>
+    <string name="direccion_no_disponible">No disponible</string>
+    <string name="boton_editar_direccion">Editar Dirección</string>
+    <string name="contact_header_1">¿Dudas, preguntas?</string>
+    <string name="contact_header_2">Contacta con nosotros</string>
+    <string name="contacto_body">Envíanos un mensaje, una pregunta o cualquier inquietud que tengas</string>
+    <string name="contacto_email" translatable="false">pedidos@turroneriaivanezbilbao.com</string>
+    <string name="contacto_tlf" translatable="false">944 792 407</string>
+    <string name="contacto_sociales">Tambíen puedes encontrarnos en:</string>
+    <string name="contacto_direccion" translatable="false">C/ Correo, 23 BILBAO</string>
+    <string name="uriparse_mailto" translatable="false">mailto:pedidos@turroneriaivanezbilbao.com</string>
+    <string name="uriparse_call" translatable="false">tel:+34944792407</string>
+    <string name="uriparse_map" translatable="false">https://maps.app.goo.gl/ZRxa4xGQm4kaHLau7?g_st=ac</string>
+    <string name="uriparse_tripad" translatable="false">https://www.tripadvisor.es/Attraction_Review-g187454-d8621245-Reviews-Turroneria_Ivanez-Bilbao_Province_of_Vizcaya_Basque_Country.html</string>
+    <string name="uriparse_twitterx" translatable="false">https://x.com/TurronesBilbao</string>
+    <string name="uriparse_ig" translatable="false">https://www.instagram.com/turroneriaivanezbilbao</string>
+    <string name="uriparse_fb" translatable="false">https://www.facebook.com/turroneriaivanezbilbao/</string>
+    <string name="intentCreate_mail">Enviar correo con:</string>
+    <string name="intentCreate_call">Llamar</string>
+    <string name="intentFail_mail">Error al abrir correo</string>
+    <string name="intentFail_call">Error al abrir llamadas</string>
+    <string name="intentFail_map">Error al abrir Google Maps</string>
+    <string name="contentDes_mail">Enviar mail</string>
+    <string name="contentDes_call">Llamar</string>
+    <string name="contentDes_map">Localización</string>
+    <string name="carrito_button">Añadir al carrito</string>
+    <string name="home_button">Ver productos</string>
+    <string name="iniciar_sesion_google">Inicio sesion Google</string>
+    <string name="error_login">Error al iniciar sesión. Por favor, verifica tus credenciales.</string>
+    <string name="error_registro">Error al registrar el usuario. Inténtalo de nuevo.</string>
+    <string name="error_invalid_email">El formato del correo electrónico es inválido. Por favor, introduce un correo electrónico válido.</string>
+    <string name="error_empty_fields">Por favor, completa todos los campos.</string>
+    <string name="error_weak_password">La contraseña es  débil. Debe tener 8 caracteres, Mayuscula y un Caracter especial.</string>
+    <string name="error_email_exists">Este correo electrónico ya está en uso. Por favor, utiliza otro correo electrónico.</string>
+    <string name="no_disponible">No Disponible</string>
+    <!-- V4 -->
+    <string name="carrito_msg_vacio">No hay productos en el carrito.</string>
+    <string name="carrito_img_desc">Imagen del carrito</string>"
+    <string name="carrito_tramitar_btn">Tramitar carrito</string>
+    <string name="carrito_confirmar_btn">Confirmar compra</string>"
+    <string name="carrito_cancelar_btn">Cancelar</string>"
+    <string name="carrito_confirmar_popu">Confirmar</string>
+    <string name="carrito_total_p1">Total =</string>"
+    <string name="carrito_total_p2">€</string> <!--TODO: Cambiar a Euro, y en todos los archivos que lo usen-->
+    <string name="contdesc_general">Imagen</string>
+    <string name="pagpro_prod_anadido">Producto añadido a tu carrito</string>
+    <string name="pagpro_seguir_comp">Seguir comprando</string>
+    <string name="pagpro_tramitar">Tramitar pedido</string>
+    <string name="pagpro_id_inva">ID de producto no válido</string>
+    <string name="pagpro_cargando">Cargando producto...</string>
+    <string name="pagpro_volver">Volver</string>
+    <string name="campo_nombre">Nombre:</string>
+    <string name="campo_apellido">Apellido:</string>
+    <string name="campo_email">Email:</string>
+    <string name="campo_codigo_postal">Código Postal:</string>
+    <string name="campo_ciudad">Ciudad:</string>
+    <string name="campo_direccion">Dirección:</string>
+    <string name="campo_telefono">Teléfono:</string>
+    <!--No traducir-->
+    <string name="main_esp_code" translatable="false">es</string>
+    <string name="main_ing_code" translatable="false">en</string>
+    <string name="main_eus_code" translatable="false">eu</string>
+    <string name="main_id_selec" translatable="false">idioma_seleccionado</string>
+    <string name="main_prefencia" translatable="false">preferencias</string>"
+    <string name="main_Logo" translatable="false">Logo</string>
+    <string name="main_home" translatable="false">Home</string>
+    <!--No traducir-->
+    <string name="main_esp">Español</string>
+    <string name="main_ing">Inglés</string>
+    <string name="main_eus">Euskera</string>
+    <string name="main_header_dir">ESTAMOS EN BILBAO, CALLE CORREO NÚMERO 23</string>
+    <string name="main_cd_perfil">Perfil</string>
+    <string name="main_cd_contacto">Contacto</string>
+    <string name="main_cd_carrito">Carrito</string>
+    <string name="uriparse_turroweb" translatable="false">https://turroneriaivanezbilbao.com/</string>
+    <string name="contacto_webmes">Más información en nuestra web:</string>
+    <string name="iniciaSesion">Por favor inicia sesion para poder añadir productos al carrito</string>
+    <string name="compra_finalizada">Compra confirmada</string>
+    <string name="tiempo_restante">Tiempo restante:\u0020</string>">
+    <string name="segundos">\u0020segundos</string>">
+
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <string name="Carrito">Carrito</string>
+    <string name="Tienda">Tienda</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Cambiar_tema">Cambiar tema</string>
+    <string name="Perfil">Perfil</string>
+
+
+</resources>

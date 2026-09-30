@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">R1_TurroneriaIvanez</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_tienda">Store</string>
+    <string name="turroneria_ibanez">Ibañez Nougat</string>
+    <string name="turrones_ibanez">Ibañez Nougats</string>
+    <string name="en_bilbao_desde">In Bilbao since 1855</string>
+    <string name="home_texto_turrones">Today we manage IVÁÑEZ NOUGAT, </string>
+    <string name="home_seccionbold"> a traditional nougat shop in Bilbao</string>
+    <string name="home_texto_turrones2">, located in the Casco Viejo neighborhood. We continue a family tradition since 1855, and we are responsible for passing this heritage to the fifth generation of our family.</string>
+    <string name="titulo_perfil">Your Account</string>
+    <string name="titulo_iniciar_sesion">LOG IN</string>
+    <string name="titulo_registrarse">SIGN UP</string>
+    <string name="instruccion_iniciar_sesion">Please enter your email and password</string>
+    <string name="instruccion_registrarse">Please fill in the following data</string>
+    <string name="placeholder_email">EMAIL</string>
+    <string name="placeholder_contrasena">PASSWORD</string>
+    <string name="placeholder_nombre">NAME</string>
+    <string name="placeholder_apellido">LAST NAME</string>
+    <string name="boton_iniciar_sesion">LOG IN</string>
+    <string name="boton_registrarse">SIGN UP</string>
+    <string name="texto_crear_cuenta">Don t have an account? Create an account</string>
+    <string name="texto_iniciar_sesion">Already have an account? Log in</string>
+    <string name="boton_cerrar_sesion">Log Out</string>
+    <string name="bienvenido_usuario">Welcome, %1$s!</string>
+    <string name="registro_exitoso">Successful registration. Welcome!</string>
+    <string name="titulo_direccion">Address</string>
+    <string name="placeholder_telefono">Phone</string>
+    <string name="placeholder_direccion">Address: Street, Door, Floor...</string>
+    <string name="placeholder_ciudad">City</string>
+    <string name="placeholder_codigo_postal">Postal Code</string>
+    <string name="boton_añadir_direccion">Add Address</string>
+    <string name="boton_guardar_direccion">Save Address</string>
+    <string name="direccion_no_disponible">Not available</string>
+    <string name="boton_editar_direccion">Edit Address</string>
+    <string name="contact_header_1">Questions, doubts?</string>
+    <string name="contact_header_2">Get in touch with us</string>
+    <string name="contacto_body">Send a message, question, or any doubts</string>
+    <string name="contacto_sociales">You can also find us on:</string>
+    <string name="no_disponible">Not Available</string>
+    <string name="campo_nombre">Name:</string>
+    <string name="campo_apellido">Surname:</string>
+    <string name="campo_email">Email:</string>
+    <string name="campo_codigo_postal">Postal Code:</string>
+    <string name="campo_ciudad">City:</string>
+    <string name="campo_direccion">Address:</string>
+    <string name="campo_telefono">Phone:</string>
+    <!-- No translation -->
+
+
+
+
+
+
+
+
+
+    <!-- No translation -->
+    <string name="intentCreate_mail">Send an email with:</string>
+    <string name="intentCreate_call">Call</string>
+    <string name="intentFail_mail">Error opening email</string>
+    <string name="intentFail_call">Error opening calls</string>
+    <string name="intentFail_map">Error opening Google Maps</string>
+    <string name="contentDes_mail">Send email</string>
+    <string name="contentDes_call">Call</string>
+    <string name="contentDes_map">Location</string>
+    <string name="carrito_button">Add to cart</string>
+    <string name="home_button">See products</string>
+    <string name="iniciar_sesion_google">Log In with Google</string>
+    <string name="error_login">Login failed. Please check your credentials.</string>
+    <string name="error_registro">Error registering user. Please try again.</string>
+    <string name="error_invalid_email">The email format is invalid. Please enter a valid email.</string>
+    <string name="error_empty_fields">Please fill in all fields.</string>
+    <string name="error_weak_password">The password is too weak. It must be at least 8 characters long.</string>
+    <string name="error_email_exists">This email is already in use. Please use another email.</string>
+
+    <!-- V4 -->
+    <string name="carrito_msg_vacio">There are no products in the cart.</string>
+    <string name="carrito_img_desc">Cart image</string>
+    <string name="carrito_tramitar_btn">Process cart</string>
+    <string name="carrito_confirmar_btn">Confirm purchase</string>
+    <string name="carrito_cancelar_btn">Cancel</string>
+    <string name="carrito_confirmar_popu">Confirm</string>
+    <string name="carrito_total_p1">Total =</string>
+    <string name="carrito_total_p2">€</string>
+    <string name="contdesc_general">Image</string>
+    <string name="pagpro_prod_anadido">Product added to your cart</string>
+    <string name="pagpro_seguir_comp">Continue shopping</string>
+    <string name="pagpro_tramitar">Process order</string>
+    <string name="pagpro_id_inva">Invalid product ID</string>
+    <string name="pagpro_cargando">Loading product...</string>
+    <string name="pagpro_volver">Back</string>
+
+    <string name="main_esp">Spanish</string>
+    <string name="main_ing">English</string>
+    <string name="main_eus">Basque</string>
+    <string name="main_header_dir">WE ARE IN BILBAO, CALLE CORREO NUMBER 23</string>
+    <string name="main_cd_perfil">Profile</string>
+    <string name="main_cd_contacto">Contact</string>
+    <string name="main_cd_carrito">Cart</string>
+    <string name="contacto_webmes">More information on our website:</string>
+
+
+    <string name="iniciaSesion">Please Login to add products to the cart</string>
+
+    <string name="compra_finalizada">Purchase completed</string>
+    <string name="tiempo_restante">Time remaining:\u0020</string>
+    <string name="segundos">\u0020seconds</string>
+
+    <string name="cambiar_idioma">Change language</string>
+    <string name="Carrito">Cart</string>
+    <string name="Tienda">Store</string>
+    <string name="Contacto">Contact</string>
+    <string name="Cambiar_tema">Change theme</string>
+    <string name="Perfil">Profile</string>
+
+
+
+
+
+</resources>

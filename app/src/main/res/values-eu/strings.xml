@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">R1_TurroneriaIvanez</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_tienda">Denda</string>
+    <string name="turroneria_ibanez">Ibañez Turroiak</string>
+    <string name="turrones_ibanez">Ibañez Turroiak</string>
+    <string name="en_bilbao_desde">Bilbon 1855etik</string>
+    <string name="home_texto_turrones">Gaur egun IVÁÑEZ TURROIA kudeatzen dugu,\u0020</string>
+    <string name="home_seccionbold"> Bilboko artisau turroi denda</string>
+    <string name="home_texto_turrones2">, Casco Viejo auzoan kokatua. Familia tradizioari jarraitzen diogu 1855etik, eta familiaren bosgarren belaunaldiari ondare hori transmititzeaz arduratzen gara.</string>
+    <string name="titulo_perfil">Zure kontua</string>
+    <string name="titulo_iniciar_sesion">SAIOA HASI</string>
+    <string name="titulo_registrarse">IZENA EMAN</string>
+    <string name="instruccion_iniciar_sesion">Mesedez, sartu zure emaila eta pasahitza</string>
+    <string name="instruccion_registrarse">Mesedez, bete hurrengo datuak</string>
+    <string name="placeholder_email">EMAILA</string>
+    <string name="placeholder_contrasena">PASA-HITZA</string>
+    <string name="placeholder_nombre">IZENA</string>
+    <string name="placeholder_apellido">ABIZENA</string>
+    <string name="boton_iniciar_sesion">SAIOA HASI</string>
+    <string name="boton_registrarse">IZENA EMAN</string>
+    <string name="texto_crear_cuenta">Ez daukazu konturik? Sortu kontu bat</string>
+    <string name="texto_iniciar_sesion">Kontua daukazu? Saioa hasi</string>
+    <string name="boton_cerrar_sesion">Saioa itxi</string>
+    <string name="bienvenido_usuario">Ongi etorri, %1$s!</string>
+    <string name="registro_exitoso">Erregistro arrakastatsua. Ongi etorri!</string>
+    <string name="titulo_direccion">Helbidea</string>
+    <string name="placeholder_telefono">Telefonoa</string>
+    <string name="placeholder_direccion">Helbidea: Kalea, Atea, Solairua...</string>
+    <string name="placeholder_ciudad">Hiria</string>
+    <string name="placeholder_codigo_postal">Posta kodea</string>
+    <string name="boton_añadir_direccion">Gehitu helbidea</string>
+    <string name="boton_guardar_direccion">Gorde helbidea</string>
+    <string name="direccion_no_disponible">Ez dago erabilgarri</string>
+    <string name="boton_editar_direccion">Editatu helbidea</string>
+    <string name="contact_header_1">Galderak, zalantzak?</string>
+    <string name="contact_header_2">Jarri gurekin harremanetan</string>
+    <string name="contacto_body">Bidali mezua, galdera edo edozein zalantza</string>
+    <string name="contacto_sociales">Halaber, aurki gaitzakezu hemen:</string>
+    <string name="no_disponible">Eskuragarri ez</string>
+    <string name="campo_nombre">Izena:</string>
+    <string name="campo_apellido">Abizena:</string>
+    <string name="campo_email">Email-a:</string>
+    <string name="campo_codigo_postal">Posta Kodea:</string>
+    <string name="campo_ciudad">Hiria:</string>
+    <string name="campo_direccion">Helbidea:</string>
+    <string name="campo_telefono">Telefonoa:</string>
+    <!-- No translation -->
+
+
+
+
+
+
+
+
+
+    <!-- No translation -->
+    <string name="intentCreate_mail">Bidali emaila honekin:</string>
+    <string name="intentCreate_call">Deitu</string>
+    <string name="intentFail_mail">Errorea emaila irekitzean</string>
+    <string name="intentFail_call">Errorea deiak irekitzean</string>
+    <string name="intentFail_map">Errorea Google Maps irekitzean</string>
+    <string name="contentDes_mail">Bidali emaila</string>
+    <string name="contentDes_call">Deitu</string>
+    <string name="contentDes_map">Kokalekua</string>
+    <string name="carrito_button">Gehitu orgara</string>
+    <string name="home_button">Ikusi produktuak</string>
+    <string name="iniciar_sesion_google">Saioa hasi Google-ekin</string>
+    <string name="error_login">Saioa hasi ezin izan da. Mesedez, zure akreditazioak egiaztatu.</string>
+    <string name="error_registro">Erregistroa huts egin du. Mesedez, saiatu berriro.</string>
+    <string name="error_invalid_email">Posta elektronikoaren formatua baliogabea da. Mesedez, idatzi posta elektroniko baliodun bat.</string>
+    <string name="error_empty_fields">Mesedez, bete ezazu guztia.</string>
+    <string name="error_weak_password">Pasahitza ahulegia da. Gutxienez 8 karaktere izan behar ditu.</string>
+    <string name="error_email_exists">Posta elektroniko hau jada erabilita dago. Mesedez, beste posta elektroniko bat erabili.</string>
+
+    <!-- V4 -->
+    <string name="carrito_msg_vacio">Ez dago produkturik saskian.</string>
+    <string name="carrito_img_desc">Saskiaren irudia</string>
+    <string name="carrito_tramitar_btn">Saskia tramitatzea</string>
+    <string name="carrito_confirmar_btn">Erosketa baieztatu</string>
+    <string name="carrito_cancelar_btn">Ezeztatu</string>
+    <string name="carrito_confirmar_popu">Baieztatu</string>
+    <string name="carrito_total_p1">Guztira =</string>
+    <string name="carrito_total_p2">€</string>
+    <string name="contdesc_general">Irudia</string>
+    <string name="pagpro_prod_anadido">Produktua zure saskira gehituta</string>
+    <string name="pagpro_seguir_comp">Erosketak jarraitu</string>
+    <string name="pagpro_tramitar">Eskaera tramitatzea</string>
+    <string name="pagpro_id_inva">Produktuaren ID baliogabea</string>
+    <string name="pagpro_cargando">Produktua kargatzen...</string>
+    <string name="pagpro_volver">Itzuli</string>
+
+    <string name="main_esp">Gaztelera</string>
+    <string name="main_ing">Ingelesa</string>
+    <string name="main_eus">Euskara</string>
+    <string name="main_header_dir">BILBAON GAUDE, CORREO KALEA 23. ZENBAKIA</string>
+    <string name="main_cd_perfil">Profila</string>
+    <string name="main_cd_contacto">Kontaktua</string>
+    <string name="main_cd_carrito">Saskia</string>
+    <string name="contacto_webmes">Informazio gehiago gure webgunean:</string>
+
+    <string name="iniciaSesion">Mesedez logeatu produktuak sakian sartzeko</string>
+
+    <string name="compra_finalizada">Erosketa amaitua</string>
+    <string name="tiempo_restante">Falta den denbora:\u0020</string>">
+    <string name="segundos">\u0020segundu</string>
+
+    <string name="cambiar_idioma">Hizkuntza aldatu</string>
+    <string name="Carrito">Erosketa saskia</string>
+    <string name="Tienda">Denda</string>
+    <string name="Contacto">Harremana</string>
+    <string name="Cambiar_tema">Gaia aldatu</string>
+    <string name="Perfil">Profila</string>
+
+
+</resources>
